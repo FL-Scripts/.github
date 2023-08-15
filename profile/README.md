@@ -6,15 +6,12 @@
     High-Quality FiveM Scripts
   </p>
 
-  <!--
-    Profile Badges for Profile "github.com/FL-Scripts"
-  -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCXvYrJdYVnXg8gGxkPypmLg" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Community Discord">
+  <a href="https://www.youtube.com/@finally2164" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel">
   </a>
   <a href="https://discord.gg/GEnMhRn88X" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Community YouTube">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=youtube&logoColor=white" alt="Community YouTube">
   </a>
   <a href="https://github.com/FL-Scripts/">
     <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="Github Account">
@@ -25,18 +22,18 @@
 </p>
 
 <p align="center">
-    Welcome to the FL Scripts GitHub repository! We are passionate about creating high-quality and innovative scripts for the FiveM platform. Our goal is to enhance the gaming experience and offer unique gameplay features to the FiveM community. Explore our collection of scripts and feel free to contribute, suggest improvements, or report issues.
+    Welcome to FL Scripts GitHub Profile! We are passionate about creating high-quality and innovative scripts for the FiveM platform. Our goal is to enhance the gaming experience and offer unique gameplay features to the FiveM community. Explore our collection of scripts and feel free to contribute, suggest improvements, or report issues.
 </p>
 
 <h2> Table of Contents </h2>
 <ol class="alternating-colors">
-    <li> <a href="#about-us"> About Us </a> </li>
-    <li> <a href="#highlights"> Highlights </a> </li>
-    <li> <a href="#contact-us"> Contact Us </a> </li>
-    <li> <a href="#our-socials"> Our Socials </a> </li>
-    <li> <a href="#support-us"> Support Us </a> </li>
+    <li>About Us </li>
+    <li> Highlights </li>
+    <li> Contact Us </li>
+    <li> Our Socials </li>
+    <li> Support Us </li>
 </ol>
-            
+
 
 <h2> About Us </h2>
 <p align="center">
@@ -53,21 +50,34 @@
     <li> 🤝 <strong>Contributions:</strong> We welcome contributions from the community! Feel free to submit pull requests for bug fixes, features, or optimizations. </li>
 </ol>
 
-## Contact Us
 
-Have questions, feedback, or suggestions? We'd love to hear from you! You can reach out to us through the following channels:
+<h2> Contact Us </h2>
+<p align="center">
+    Have questions, feedback, or suggestions? We'd love to hear from you! Feel free to reach out to us via email, Discord, or our website. We look forward to hearing from you!
+</p>
 
-- 📧 Email: contact@fl-scripts.com
-- 💬 Discord: [FL Scripts Community](https://discord.gg/fl-scripts)
+<ol class="alternating-colors">
+    <li> 🌐 <strong>Website:</strong> <a href="https://flscripts.com/legal/contact"> flscripts.com/legal/contact </a> </li>
+    <li> 📧 <strong>Email:</strong> <a href="mailto:info@flscripts.com"> info@flscripts.com </a> </li>
+    <li> 💬 <strong>Discord:</strong> <a href="https://discord.gg/GEnMhRn88X"> FL Scripts Community </a> </li>
+</ol>
 
-## Our Socials
+<h2> Our Socials </h2>
 
-- 🌐 Website: [fl-scripts.com](https://flscripts.com)
-- 📺 YouTube: [FL Scripts](https://www.youtube.com/channel/UCXvYrJdYVnXg8gGxkPypmLg)
+<p align="center">
+    Stay up to date with the latest news and updates by following us on social media. We post regular updates on our scripts, as well as other FiveM-related content.
+</p>
 
-## Support Us
+<ol class="alternating-colors">
+    <li> 🌐 <strong>Website:</strong> <a href="https://flscripts.com"> flscripts.com </a> </li>
+    <li> 📺 <strong>YouTube:</strong> <a href="https://www.youtube.com/@finally2164"> FL Scripts </a> </li>
+</ol>
 
-If you find value in our scripts and would like to support our work, consider [buying](https://flscripts.com) one of our paid scripts to help us continue developing free scripts for the FiveM community.
+<h2> Support Us </h2>
+
+<p align="center">
+    We are passionate about creating high-quality scripts for the FiveM community. We offer many of our scripts for free, and we are committed to keeping them free forever. If you enjoy our scripts and would like to support us, please consider donating via our <a href="https://discord.gg/GEnMhRn88X">Discord server</a> or by buying one of our paid scripts. Your support is greatly appreciated!
+</p>
 
 <br>
 
